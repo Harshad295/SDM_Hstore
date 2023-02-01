@@ -1,0 +1,17 @@
+C:\Harshad@C\C#\Lab\day9\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Harshad@C\C#\Lab\day9\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Harshad@C\C#\Lab\day9\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Harshad@C\C#\Lab\day9\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Harshad@C\C#\Lab\day9\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Harshad@C\C#\Lab\day9\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Harshad@C\C#\Lab\day9\BLL\bin\Debug\net7.0\BLL.dll
+C:\Harshad@C\C#\Lab\day9\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Harshad@C\C#\Lab\day9\BLL\bin\Debug\net7.0\BOL.dll
+C:\Harshad@C\C#\Lab\day9\BLL\bin\Debug\net7.0\DAL.dll
+C:\Harshad@C\C#\Lab\day9\BLL\bin\Debug\net7.0\BOL.pdb
+C:\Harshad@C\C#\Lab\day9\BLL\bin\Debug\net7.0\DAL.pdb
+C:\Harshad@C\C#\Lab\day9\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Harshad@C\C#\Lab\day9\BLL\obj\Debug\net7.0\BLL.dll
+C:\Harshad@C\C#\Lab\day9\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Harshad@C\C#\Lab\day9\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Harshad@C\C#\Lab\day9\BLL\obj\Debug\net7.0\ref\BLL.dll

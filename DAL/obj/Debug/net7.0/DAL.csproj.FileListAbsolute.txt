@@ -1,0 +1,15 @@
+C:\Harshad@C\C#\Lab\day9\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Harshad@C\C#\Lab\day9\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Harshad@C\C#\Lab\day9\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Harshad@C\C#\Lab\day9\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Harshad@C\C#\Lab\day9\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Harshad@C\C#\Lab\day9\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Harshad@C\C#\Lab\day9\DAL\bin\Debug\net7.0\DAL.dll
+C:\Harshad@C\C#\Lab\day9\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Harshad@C\C#\Lab\day9\DAL\bin\Debug\net7.0\BOL.dll
+C:\Harshad@C\C#\Lab\day9\DAL\bin\Debug\net7.0\BOL.pdb
+C:\Harshad@C\C#\Lab\day9\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\Harshad@C\C#\Lab\day9\DAL\obj\Debug\net7.0\DAL.dll
+C:\Harshad@C\C#\Lab\day9\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Harshad@C\C#\Lab\day9\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Harshad@C\C#\Lab\day9\DAL\obj\Debug\net7.0\ref\DAL.dll

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ReJuls/r0Nsy9o8zdStIvsbK4ElaK4VS7HgjxCARRDkMWhHkmzPLdkwgOwbAq5lKmwP1UdGSrvRFddddVA0nHg==",
+  "success": true,
+  "projectFilePath": "C:\\Harshad@C\\C#\\Lab\\day9\\Day14\\ECommerce\\CRMService\\CRMService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harsh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
+    "C:\\Users\\harsh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\harsh\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\harsh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\harsh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\harsh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\harsh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
